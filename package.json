@@ -2,6 +2,7 @@
   "name": "gatsby-plugin-sumo",
   "description": "A Gatsby plugin to add sumo email capture tool to a Gatsby website",
   "main": "index.js",
+  "version": "1.0.1",
   "scripts": {
     "test": "jest"
   },
