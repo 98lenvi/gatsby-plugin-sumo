@@ -2,7 +2,7 @@
   "name": "gatsby-plugin-sumo",
   "description": "A Gatsby plugin to add sumo email capture tool to a Gatsby website",
   "main": "index.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "scripts": {
     "test": "jest"
   },
@@ -26,14 +26,14 @@
     "@babel/preset-env": "^7.12.1",
     "babel": "^6.23.0",
     "gatsby-plugin-utils": "^0.3.0",
-    "jest": "^26.6.3",
-    "@babel/runtime": "^7.12.5"
+    "jest": "^26.6.3"
   },
   "dependencies": {
-    "react": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "@babel/runtime": "^7.12.5"
   },
   "peerDependencies": {
-    "gatsby": ">2.0.0"
+    "gatsby": ">2.0.0",
+    "react": "^17.0.1",
+    "react-helmet": "^6.1.0"
   }
 }
